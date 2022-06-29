@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Homeworks\Homework 9 Inhertance\Inheritance Homework\Inheritance Homework\bin\Debug\netcoreapp3.1\Inheritance Homework.exe
+C:\Users\HP\Desktop\Homeworks\Homework 9 Inhertance\Inheritance Homework\Inheritance Homework\bin\Debug\netcoreapp3.1\Inheritance Homework.deps.json
+C:\Users\HP\Desktop\Homeworks\Homework 9 Inhertance\Inheritance Homework\Inheritance Homework\bin\Debug\netcoreapp3.1\Inheritance Homework.runtimeconfig.json
+C:\Users\HP\Desktop\Homeworks\Homework 9 Inhertance\Inheritance Homework\Inheritance Homework\bin\Debug\netcoreapp3.1\Inheritance Homework.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Homeworks\Homework 9 Inhertance\Inheritance Homework\Inheritance Homework\bin\Debug\netcoreapp3.1\Inheritance Homework.dll
+C:\Users\HP\Desktop\Homeworks\Homework 9 Inhertance\Inheritance Homework\Inheritance Homework\bin\Debug\netcoreapp3.1\Inheritance Homework.pdb
+C:\Users\HP\Desktop\Homeworks\Homework 9 Inhertance\Inheritance Homework\Inheritance Homework\obj\Debug\netcoreapp3.1\Inheritance Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Homeworks\Homework 9 Inhertance\Inheritance Homework\Inheritance Homework\obj\Debug\netcoreapp3.1\Inheritance Homework.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Homeworks\Homework 9 Inhertance\Inheritance Homework\Inheritance Homework\obj\Debug\netcoreapp3.1\Inheritance Homework.AssemblyInfo.cs
+C:\Users\HP\Desktop\Homeworks\Homework 9 Inhertance\Inheritance Homework\Inheritance Homework\obj\Debug\netcoreapp3.1\Inheritance Homework.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Homeworks\Homework 9 Inhertance\Inheritance Homework\Inheritance Homework\obj\Debug\netcoreapp3.1\Inheritance Homework.dll
+C:\Users\HP\Desktop\Homeworks\Homework 9 Inhertance\Inheritance Homework\Inheritance Homework\obj\Debug\netcoreapp3.1\Inheritance Homework.pdb
+C:\Users\HP\Desktop\Homeworks\Homework 9 Inhertance\Inheritance Homework\Inheritance Homework\obj\Debug\netcoreapp3.1\Inheritance Homework.genruntimeconfig.cache
+C:\Users\HP\Desktop\Homeworks\Homework 9 Inhertance\Inheritance Homework\Inheritance Homework\obj\Debug\netcoreapp3.1\Inheritance Homework.csproj.AssemblyReference.cache
